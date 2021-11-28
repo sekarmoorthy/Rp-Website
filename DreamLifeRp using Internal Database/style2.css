@@ -1,0 +1,72 @@
+.bodydetail {
+    height: 300px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head {
+    height: 250px;
+    width: 1000px;
+}
+
+.Logo {
+    float: left;
+}
+
+.value {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: crimson;
+}
+.bodydetail2 {
+    height: 300px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head2 {
+    height: 250px;
+    width: 1000px;
+}
+
+.Logo2 {
+    float: right;
+}
+
+.value2 {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: crimson;
+}
+.bodydetail3 {
+    height: 300px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head3 {
+    height: 250px;
+    width: 1000px;
+}
+
+.video {
+    float: left;
+}
+
+.value3 {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: crimson;
+}

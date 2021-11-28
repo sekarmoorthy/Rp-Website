@@ -1,0 +1,69 @@
+.header {
+    height: 300px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h1 {
+    height: 250px;
+    width: 1000px;
+}
+
+.L {
+    float: left;
+}
+
+.Name {
+    height: 250px;
+    width: 700px;
+    float: right;
+    background-color: bisque;
+}
+
+.n {
+    position: relative;
+    top: 100px;
+    left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: crimson;
+}
+
+.m {
+    height: 50px;
+    width: 1000px;
+    background-color: darkkhaki;
+}
+
+.m ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.m li {
+    display: inline;
+    padding: 50px;
+}
+
+.m a {
+    text-decoration: none;
+    color: rgb(10, 3, 1);
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.footer {
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 1000px;
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 25px;
+}
+form{
+    border-radius: 10%;
+}
